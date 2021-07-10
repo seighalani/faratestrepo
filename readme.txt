@@ -1,1 +1,1 @@
->>This is a test note for industrial project.
+It is a first test note for industrial project.
